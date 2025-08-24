@@ -8,7 +8,6 @@ A passionate **Full Stack Developer** from India 🚀
     <img src="https://blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif" alt="Watch the Chrome Dino Game" />
 </p>
 
-- 🔭 I’m currently working on **Blog Application** (Spring Boot + React) with authentication, CRUD blogs, and pagination.  
 - 💬 Ask me more about **Java, Spring Boot, AngularJS(Beginer)**  
 - 📫 Reach me at **kedharjillella@gmail.com**  
 - <span >
